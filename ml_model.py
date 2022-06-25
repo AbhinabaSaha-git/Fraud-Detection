@@ -8,3 +8,7 @@ def model2():
 
 def model3():
     print('this is in model 3')
+
+
+def modelfinal():
+    print('this is the final ml model')
